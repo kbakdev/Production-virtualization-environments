@@ -1,4 +1,4 @@
-#VMWare Workstation
+# VMWare Workstation
 
 VMware Workstation to branżowy standard do uruchamiania wielu systemów operacyjnych jako maszyn wirtualnych (VM) na jednym komputerze z systemem Linux lub Windows. Specjaliści IT, programiści i firmy, które tworzą, testują lub prezentują oprogramowanie dla dowolnego urządzenia, platformy lub chmury, polegają na Workstation.
 
