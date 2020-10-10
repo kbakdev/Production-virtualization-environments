@@ -6,7 +6,20 @@ Najbardziej popularne rozwiązanie firmy to VMware vSphere, najczęściej wykorz
 
 ### Sposoby licencjonowania
 
-vSphere licencjuje się poprzez procesor.
+**vSphere** licencjuje się za procesor.
+**vSphere Remote Office Branch Office** za wirtualną maszynę.
+**vCenter Server** za instancję aplikacji.
+**Site Recovery Manager** za wirtualną maszynę.
+**vRealize Operations** za OSI.
+**vRealize Log Insight** za OSI i procesor.
+**vRealize Automation** za OSI.
+**vRealize Automation Desktop** za wirtualną maszynę i pulpit.
+**vRealize Business for Cloud** za OSI i procesor.
+**vRealize Business** za nazwanego użytkownika.
+**vRealize Suite** za PLU.
+**vCloud Suite** za PLU dla komponentu vRealize Suite i CPU dla komponentu vSphere.
+**vRealize Code Stream** za OSI i procesor.
+**vSAN** za procesor dla Data Center i równoczesnego użytkownika na komputer.
 
 ## XEN
 
